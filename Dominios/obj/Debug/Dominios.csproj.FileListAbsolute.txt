@@ -1,0 +1,6 @@
+C:\Users\juani\Desktop\acces\Proyectos-Mios-Csharp\Sistema-Gestion-Contactos\GestionContactos\Dominios\bin\Debug\Dominios.dll
+C:\Users\juani\Desktop\acces\Proyectos-Mios-Csharp\Sistema-Gestion-Contactos\GestionContactos\Dominios\bin\Debug\Dominios.pdb
+C:\Users\juani\Desktop\acces\Proyectos-Mios-Csharp\Sistema-Gestion-Contactos\GestionContactos\Dominios\obj\Debug\Dominios.csproj.AssemblyReference.cache
+C:\Users\juani\Desktop\acces\Proyectos-Mios-Csharp\Sistema-Gestion-Contactos\GestionContactos\Dominios\obj\Debug\Dominios.csproj.CoreCompileInputs.cache
+C:\Users\juani\Desktop\acces\Proyectos-Mios-Csharp\Sistema-Gestion-Contactos\GestionContactos\Dominios\obj\Debug\Dominios.dll
+C:\Users\juani\Desktop\acces\Proyectos-Mios-Csharp\Sistema-Gestion-Contactos\GestionContactos\Dominios\obj\Debug\Dominios.pdb
