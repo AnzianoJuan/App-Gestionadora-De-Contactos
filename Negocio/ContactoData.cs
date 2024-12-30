@@ -95,7 +95,8 @@ namespace Negocio
                 datos.setearParametro("@Nombre", cont.Nombre);
                 datos.setearParametro("@Telefono", cont.Telefono);
                 datos.setearParametro("@Email", cont.Email);
-                datos.setearParametro("@IdMarca", cont.Direccion);
+                datos.setearParametro("@Direccion", cont.Direccion);
+                datos.setearParametro("@ContactoID", cont.Id);
             
                 datos.ejecutarAccion();
             }
@@ -107,6 +108,28 @@ namespace Negocio
             {
                 datos.cerrarConexion();
             }
+        }
+
+        public void eliminar(int id)
+        {
+
+            try
+            {
+
+                AccesoDatos datos = new AccesoDatos();
+
+                datos.setearConsulta("delete from Contactos where ContactoID = @ContactoID");
+                datos.setearParametro("@ContactoID", id);
+
+                datos.ejecutarAccion();
+
+
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
         }
 
     }

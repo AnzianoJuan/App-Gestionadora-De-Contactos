@@ -137,5 +137,70 @@ namespace presentacion
                 MessageBox.Show(ex.ToString());
             }
         }
+
+        private void pictureBox2_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void pictureBox1_Click_1(object sender, EventArgs e)
+        {
+            ContactoData data = new ContactoData();
+
+            try
+            {
+                if (contactoN == null)
+                    contactoN = new Contacto();
+
+                if (string.IsNullOrWhiteSpace(textBoxNombre.Text))
+                {
+                    MessageBox.Show("debe tener nombre");
+                    return;
+                }
+
+
+                if (string.IsNullOrWhiteSpace(textBoxEmail.Text))
+                {
+                    MessageBox.Show("debe tener Email");
+                    return;
+                }
+
+                if (string.IsNullOrWhiteSpace(textBoxDireccion.Text))
+                {
+                    MessageBox.Show("Debe tener direccion");
+                    return;
+                }
+
+                if (string.IsNullOrWhiteSpace(textBoxTelefono.Text))
+                {
+                    MessageBox.Show("Debe tener Telefono");
+                    return;
+                }
+
+                contactoN.Nombre = textBoxNombre.Text;
+                contactoN.Email = textBoxEmail.Text;
+                contactoN.Direccion = textBoxDireccion.Text;
+                contactoN.Telefono = textBoxTelefono.Text;
+               
+                if (contactoN.Id != 0)
+                {
+                    data.modificar(contactoN);
+                    MessageBox.Show("modificado exitosamente");
+                }
+
+                if (contactoN.Id == 0)
+                {
+                    data.AgregarContacto(contactoN);
+                    MessageBox.Show("creado exitosamente");
+                }
+
+                this.Close();
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+        }
     }
 }

@@ -133,5 +133,46 @@ namespace presentacion
             modificarDisco.ShowDialog();
             cargar();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            eliminar();
+        }
+
+        private void eliminar()
+        {
+            ContactoData data = new ContactoData();
+            Contacto contactoSeleccionado;
+
+            if (dataGridViewVerContactos.CurrentRow == null)
+            {
+                MessageBox.Show("Debe seleccionar un contacto para eliminar");
+                return;
+            }
+
+            try
+            {
+
+                DialogResult respuesta = MessageBox.Show("seguro que desea eliminar?", "eliminando", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+
+
+                //Verificar la respuesta del usuario:
+                if (respuesta == DialogResult.Yes)
+                {
+                    //Seleccionar el disco a eliminar de la celda de la DGV
+                    contactoSeleccionado = (Contacto)dataGridViewVerContactos.CurrentRow.DataBoundItem;
+
+                    data.eliminar(contactoSeleccionado.Id);
+
+                    cargar();
+                }
+
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.ToString());
+            }
+        }
     }
 }
