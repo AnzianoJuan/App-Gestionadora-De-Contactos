@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using Dominios;
 using Negocio;
+using System.IO;
 
 namespace presentacion
 {
@@ -173,6 +174,53 @@ namespace presentacion
 
                 MessageBox.Show(ex.ToString());
             }
+        }
+
+        private void ExportarCsv(List<Contacto> contactos)
+        {
+            // Configurar el diálogo para guardar archivo
+            using (SaveFileDialog saveFileDialog = new SaveFileDialog())
+            {
+                saveFileDialog.Filter = "Archivos CSV (*.csv)|*.csv";
+                saveFileDialog.Title = "Guardar lista como CSV";
+                saveFileDialog.FileName = "Contactos.csv";
+
+                if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    try
+                    {
+                        // Crear archivo CSV
+                        using (StreamWriter writer = new StreamWriter(saveFileDialog.FileName))
+                        {
+                            // Usar el separador según configuración regional
+                            char separador = ';'; 
+
+                            // Escribir encabezados
+                            writer.WriteLine($"Nombre{separador}Email{separador}Telefono{separador}Direccion");
+
+                            foreach (var contacto in contactos)
+                            {
+                                writer.WriteLine($"{contacto.Nombre}{separador}{contacto.Email}{separador}{contacto.Telefono}{separador}{contacto.Direccion}");
+                            }
+                        }
+
+                        MessageBox.Show("Archivo CSV exportado correctamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show($"Ocurrió un error al exportar el archivo: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+            }
+        }
+
+
+        private void pictureBoxeExcel_Click(object sender, EventArgs e)
+        {
+            ContactoData contacto = new ContactoData();
+
+            var contactos = contacto.listar();
+            ExportarCsv(contactos);
         }
     }
 }
