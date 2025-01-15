@@ -29,7 +29,7 @@ namespace presentacion
         {
             InitializeComponent();
             this.contactoN = contacto;
-         
+
         }
 
         private void pictureBoxMinimizar_Click(object sender, EventArgs e)
@@ -98,12 +98,14 @@ namespace presentacion
                 contactoN.Direccion = textBoxDireccion.Text;
                 contactoN.Email = textBoxEmail.Text;
 
-                if (contactoN.Id != 0) {
+                if (contactoN.Id != 0)
+                {
                     data.modificar(contactoN);
                     MessageBox.Show("modificado exitosamente");
                 }
 
-                if(contactoN.Id == 0){
+                if (contactoN.Id == 0)
+                {
                     data.AgregarContacto(contactoN);
                     MessageBox.Show("creado exitosamente");
                 }
@@ -181,7 +183,7 @@ namespace presentacion
                 contactoN.Email = textBoxEmail.Text;
                 contactoN.Direccion = textBoxDireccion.Text;
                 contactoN.Telefono = textBoxTelefono.Text;
-               
+
                 if (contactoN.Id != 0)
                 {
                     data.modificar(contactoN);
@@ -200,6 +202,30 @@ namespace presentacion
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString());
+            }
+        }
+
+        private void textBoxEmail_KeyPress(object sender, KeyPressEventArgs e)
+        {
+           
+
+        }
+
+        private void textBoxTelefono_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((e.KeyChar < 48 || e.KeyChar > 59) && e.KeyChar != 8)
+            {
+                MessageBox.Show("solo puede ingresar numeros");
+                e.Handled = true;
+            }
+        }
+
+        private void textBoxEmail_Leave(object sender, EventArgs e)
+        {
+            if (!textBoxEmail.Text.Contains("@"))
+            {
+                MessageBox.Show("El correo electrónico debe contener un '@'.", "Error de validación", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                textBoxEmail.Focus(); // Regresa el foco al TextBox para que el usuario corrija el error
             }
         }
     }

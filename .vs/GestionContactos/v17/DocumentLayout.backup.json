@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|c:\\users\\juani\\desktop\\acces\\proyectos-mios-csharp\\gestioncontactos\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\FormAgregarContacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\FormAgregarContacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|c:\\users\\juani\\desktop\\acces\\proyectos-mios-csharp\\gestioncontactos\\presentacion\\formagregarcontacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\formagregarcontacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\formagregarcontacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\formagregarcontacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4932683D-7E71-4BCE-BDDA-504764826D67}|Negocio\\Negocio.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\Negocio\\ContactoData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4932683D-7E71-4BCE-BDDA-504764826D67}|Negocio\\Negocio.csproj|solutionrelative:Negocio\\ContactoData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|c:\\users\\juani\\desktop\\acces\\proyectos-mios-csharp\\gestioncontactos\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C61364-5C47-42F3-ABD2-656971EFB5E0}|Dominios\\Dominio.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\Dominios\\Contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48C61364-5C47-42F3-ABD2-656971EFB5E0}|Dominios\\Dominio.csproj|solutionrelative:Dominios\\Contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|c:\\users\\juani\\desktop\\acces\\proyectos-mios-csharp\\gestioncontactos\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4932683D-7E71-4BCE-BDDA-504764826D67}|Negocio\\Negocio.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\Negocio\\AccesoDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4932683D-7E71-4BCE-BDDA-504764826D67}|Negocio\\Negocio.csproj|solutionrelative:Negocio\\AccesoDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4932683D-7E71-4BCE-BDDA-504764826D67}|Negocio\\Negocio.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\Negocio\\AccesoDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4932683D-7E71-4BCE-BDDA-504764826D67}|Negocio\\Negocio.csproj|solutionrelative:Negocio\\AccesoDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C61364-5C47-42F3-ABD2-656971EFB5E0}|Dominios\\Dominio.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\Dominios\\Contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C61364-5C47-42F3-ABD2-656971EFB5E0}|Dominios\\Dominio.csproj|solutionrelative:Dominios\\Contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4932683D-7E71-4BCE-BDDA-504764826D67}|Negocio\\Negocio.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\Negocio\\ContactoData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4932683D-7E71-4BCE-BDDA-504764826D67}|Negocio\\Negocio.csproj|solutionrelative:Negocio\\ContactoData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED39F345-D8DB-4ADE-80C2-CBBF42170E6E}|presentacion\\presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\FormAgregarContacto.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Form1.cs",
+              "RelativeToolTip": "presentacion\\Form1.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAWwHkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:36:55.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:36:46.667Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ContactoData.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\Negocio\\ContactoData.cs",
               "RelativeDocumentMoniker": "Negocio\\ContactoData.cs",
@@ -66,38 +91,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Contacto.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\Dominios\\Contacto.cs",
               "RelativeDocumentMoniker": "Dominios\\Contacto.cs",
               "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\Dominios\\Contacto.cs",
               "RelativeToolTip": "Dominios\\Contacto.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T03:32:40.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Form1.cs",
-              "RelativeDocumentMoniker": "presentacion\\Form1.cs",
-              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Form1.cs",
-              "RelativeToolTip": "presentacion\\Form1.cs",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAswLoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T01:19:00.258Z",
+              "WhenOpened": "2024-12-15T03:32:40.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FormAgregarContacto.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\FormAgregarContacto.cs",
               "RelativeDocumentMoniker": "presentacion\\FormAgregarContacto.cs",
-              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\FormAgregarContacto.cs",
-              "RelativeToolTip": "presentacion\\FormAgregarContacto.cs",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAiwMAAAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\FormAgregarContacto.cs*",
+              "RelativeToolTip": "presentacion\\FormAgregarContacto.cs*",
+              "ViewState": "AgIAANwAAAAAAAAAAADgv+QAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T03:08:40.822Z",
               "EditorCaption": ""
@@ -105,23 +118,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Form1.cs",
-              "RelativeDocumentMoniker": "presentacion\\Form1.cs",
-              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "presentacion\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T23:44:28.758Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "FormAgregarContacto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\FormAgregarContacto.cs",
               "RelativeDocumentMoniker": "presentacion\\FormAgregarContacto.cs",
-              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\FormAgregarContacto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "presentacion\\FormAgregarContacto.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\FormAgregarContacto.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "presentacion\\FormAgregarContacto.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T03:02:09.197Z",
               "EditorCaption": " [Dise\u00F1o]"
@@ -134,34 +135,36 @@
               "RelativeDocumentMoniker": "presentacion\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Form1.Designer.cs",
               "RelativeToolTip": "presentacion\\Form1.Designer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA+wBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T04:38:36.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Program.cs",
               "RelativeDocumentMoniker": "presentacion\\Program.cs",
               "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\presentacion\\Program.cs",
               "RelativeToolTip": "presentacion\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T00:38:48.359Z"
+              "WhenOpened": "2024-12-16T00:38:48.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "AccesoDatos.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\Negocio\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
               "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\Proyectos-Mios-Csharp\\GestionContactos\\Negocio\\AccesoDatos.cs",
               "RelativeToolTip": "Negocio\\AccesoDatos.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAewAsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAMwAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T03:38:04.787Z"
+              "WhenOpened": "2024-12-15T03:38:04.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
